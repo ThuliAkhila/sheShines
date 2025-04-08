@@ -1,15 +1,11 @@
-# sheShines
 ✨ SheShines – Cloth Donation Platform
-SheShines is a web-based application built to connect donors with women in need of clothes. It’s simple, functional, and designed to inspire meaningful contributions through a clean and intuitive interface.
+SheShines is a web-based platform connecting clothing donors with women in need. Built with simplicity and functionality in mind, it aims to inspire meaningful contributions through a clean, intuitive interface.
 
-💡 Project Overview
-The mission of SheShines is simple:
-Make donating clothes easier, more impactful, and accessible to everyone.
+💡 Mission
+Make donating clothes easier, more impactful, and accessible for everyone.
 
-Whether you’re looking to donate clothes or request assistance, this platform bridges the gap with ease.
-
+Whether you're donating clothes or requesting help, SheShines bridges the gap effortlessly.
 📁 Project Structure
-
 sheShines/
 ├── frontend/
 │   ├── index.html
@@ -17,92 +13,60 @@ sheShines/
 │   ├── register.html
 │   ├── donate.html
 │   ├── request.html
-│   |--style.css,auth.css
+│   ├── style.css
+│   └── auth.css
+│
 ├── backend/
 │   ├── server.js
-│   ├── service.js
-│   └── sql/
-│       └── sheShines.sql
+│   └── service.js
+│
 ├── images/
 │   ├── homepage.png
 │   ├── login.png
 │   ├── register.png
 │   ├── donate.png
-│   └── request.png
+│   ├── request.png
+│   ├── validations/
+│   └── database_images/
 ├── package.json
 ├── package-lock.json
 └── README.md
+
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js with Express.js
+Backend: Node.js, Express.js
 
 Database: MySQL
-
 🚀 Getting Started
 1️⃣ Clone the Repository
-
-git clone https://github.com/ThuliAkhila/sheShines.git
-cd sheShines
+   git clone https://github.com/ThuliAkhila/sheShines.git
+  cd sheShines
 2️⃣ Backend Setup
-
-cd backend
-npm install
-3️⃣ Database Configuration
-Open phpMyAdmin
-
-Create a database named sheShines
-
-Import sheShines.sql located in backend/sql/
-
+   cd backend
+   npm install
+3️⃣ Database Configuration (Using MySQL)
+   CREATE DATABASE sheShines;
+   USE sheShines;
+   create tables for users,donations,requests
 4️⃣ Start the Backend Server
-bash
-Copy
-Edit
-node server.js
+   node server.js
 5️⃣ Run the Frontend
-Open the frontend/ folder
 
-Launch index.html in a browser
-(You can also use Live Server in VS Code)
+ ✨ Features
+✅ User registration & login
+✅ Donate clothes with a few clicks
+✅ Request clothes easily
+✅ Persistent storage via MySQL
+✅ Clean and user-friendly interface
 
-
-
-🏠 Home Page
-
-🔐 Login Page
-
-📝 Register Page
-
-👗 Donate Clothes
-
-📥 Request Clothes
-
-✨ Features
-Clean registration & login system
-
-Donate clothes with just a few clicks
-
-Submit requests for needed items
-
-Uses MySQL to persist user and donation data
-
-Friendly user interface
-
-🔮 Future Enhancements
-Admin dashboard to manage requests and donations
-
-Email/SMS alerts for request updates
-
-Add search/filter for donation history
-
-Responsive mobile version
-
- Support the Project
-If you find this project useful, please consider giving it a ⭐️ on GitHub. It motivates and helps others discover it!
+🙌 Support the Project
+If you find this project helpful, consider giving it a ⭐️ on GitHub!
+It keeps the project going and helps others discover it.
 
 👉 Star This Repo
-
 👩‍💻 Developed By
-Akhila Thuli
+ Akhila Thuli
+ Computer Science & Engineering, JNTUH
+
 
