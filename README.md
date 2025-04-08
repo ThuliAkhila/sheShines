@@ -36,9 +36,9 @@ Database: MySQL
 
 🖼️ Interface Preview
 
-🏠 Home Page
+   Home Page
 
-   (./images/homepage.png)
+   https://github.com/ThuliAkhila/sheShines/blob/91e91360ff352c33bf34ab967a5ce1bfa96ed228/images/Home_page.png
 
 🔐 Login Page
 
