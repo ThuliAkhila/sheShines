@@ -17,62 +17,50 @@ Database: MySQL
 🚀 Getting Started
 
 1️⃣ Clone the Repository
-   git clone https://github.com/ThuliAkhila/sheShines.git
-  cd sheShines
+    git clone https://github.com/ThuliAkhila/sheShines.git
+   
+    cd sheShines
   
 2️⃣ Backend Setup
-   cd backend
-   npm install
+    cd backend
+   
+    npm install
    
 3️⃣ Database Configuration (Using MySQL)
-   CREATE DATABASE sheShines;
-   USE sheShines;
+ 
+    CREATE DATABASE sheShines;
+   
+    USE sheShines;
+   
    create tables for users,donations,requests
    
 4️⃣ Start the Backend Server
-   node server.js
+    node server.js
    
 5️⃣ Run the Frontend
 
 🖼️ Interface Preview
 
   🏠 Home Page
+  
 
    ![Home Page](https://github.com/ThuliAkhila/sheShines/blob/91e91360ff352c33bf34ab967a5ce1bfa96ed228/images/Home_page.png?raw=true)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
 🔐 Login Page
 
+  
 
    ![Login Page](https://github.com/ThuliAkhila/sheShines/blob/main/images/login.png?raw=true)
 
 
 
 
-
-
-   
-
 📝 Registration page
 
-    ![Register Page](https://github.com/ThuliAkhila/sheShines/blob/main/images/registration.png?raw=true)
 
+
+   ![Registration Page](https://github.com/ThuliAkhila/sheShines/blob/15254d600229616f4ad808901f6d0caa43388b3c/images/Registration.png?raw=true)
 
 
 
@@ -80,15 +68,19 @@ Database: MySQL
 
     
 👗 Donate Clothes Page
-    ![Donate Page](https://github.com/ThuliAkhila/sheShines/blob/main/images/donate.png?raw=true)
 
 
+   ![Donation Page](https://github.com/ThuliAkhila/sheShines/blob/15254d600229616f4ad808901f6d0caa43388b3c/images/Donation.png?raw=true)
+
+   
 
     
 
 📥 Request Clothes Page
 
-   ![Request Page](https://github.com/ThuliAkhila/sheShines/blob/main/images/request.png?raw=true)
+
+
+  ![Request Page](https://github.com/ThuliAkhila/sheShines/blob/15254d600229616f4ad808901f6d0caa43388b3c/images/Request.png?raw=true)
 
 
    
