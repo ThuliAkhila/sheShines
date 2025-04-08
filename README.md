@@ -1,4 +1,5 @@
 ✨ SheShines – Cloth Donation Platform
+
 SheShines is a web-based platform connecting clothing donors with women in need. Built with simplicity and functionality in mind, it aims to inspire meaningful contributions through a clean, intuitive interface.
 
 💡 Mission
@@ -8,10 +9,13 @@ Whether you're donating clothes or requesting help, SheShines bridges the gap ef
 
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js, Express.js
 
 Database: MySQL
+
 🚀 Getting Started
+
 1️⃣ Clone the Repository
    git clone https://github.com/ThuliAkhila/sheShines.git
   cd sheShines
@@ -29,6 +33,14 @@ Database: MySQL
    node server.js
    
 5️⃣ Run the Frontend
+
+🖼️ Interface Preview
+
+🏠 Home Page
+🔐 Login Page
+📝 Register Page
+👗 Donate Clothes Page
+📥 Request Clothes Page
 
  ✨ Features
 ✅ User registration & login
