@@ -66,8 +66,7 @@ Open the frontend/ folder
 Launch index.html in a browser
 (You can also use Live Server in VS Code)
 
-📸 Screenshots
-Replace the placeholders below with actual screenshots from your images/ folder
+
 
 🏠 Home Page
 
