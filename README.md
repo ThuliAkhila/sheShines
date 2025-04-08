@@ -36,18 +36,63 @@ Database: MySQL
 
 🖼️ Interface Preview
 
-   Home Page
+  🏠 Home Page
 
-   https://github.com/ThuliAkhila/sheShines/blob/91e91360ff352c33bf34ab967a5ce1bfa96ed228/images/Home_page.png
+   ![Home Page](https://github.com/ThuliAkhila/sheShines/blob/91e91360ff352c33bf34ab967a5ce1bfa96ed228/images/Home_page.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
 
 🔐 Login Page
 
-📝 Register Page
 
+   ![Login Page](https://github.com/ThuliAkhila/sheShines/blob/main/images/login.png?raw=true)
+
+
+
+
+
+
+   
+
+📝 Registration page
+
+    ![Register Page](https://github.com/ThuliAkhila/sheShines/blob/main/images/registration.png?raw=true)
+
+
+
+
+
+
+    
 👗 Donate Clothes Page
+    ![Donate Page](https://github.com/ThuliAkhila/sheShines/blob/main/images/donate.png?raw=true)
+
+
+
+    
 
 📥 Request Clothes Page
 
+   ![Request Page](https://github.com/ThuliAkhila/sheShines/blob/main/images/request.png?raw=true)
+
+
+   
+     
  ✨ Features
  
 ✅ User registration & login
