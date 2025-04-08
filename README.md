@@ -38,6 +38,8 @@ Database: MySQL
 
 🏠 Home Page
 
+   (./images/homepage.png)
+
 🔐 Login Page
 
 📝 Register Page
@@ -47,6 +49,7 @@ Database: MySQL
 📥 Request Clothes Page
 
  ✨ Features
+ 
 ✅ User registration & login
 
 ✅ Donate clothes with a few clicks
@@ -60,9 +63,11 @@ Database: MySQL
 
 🙌 Support the Project
 If you find this project helpful, consider giving it a ⭐️ on GitHub!
+
 It keeps the project going and helps others discover it.
 
 👩‍💻 Developed By
+
  Akhila Thuli
  
  Computer Science & Engineering, JNTUH
