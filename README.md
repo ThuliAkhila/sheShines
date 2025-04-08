@@ -37,17 +37,26 @@ Database: MySQL
 🖼️ Interface Preview
 
 🏠 Home Page
+
 🔐 Login Page
+
 📝 Register Page
+
 👗 Donate Clothes Page
+
 📥 Request Clothes Page
 
  ✨ Features
 ✅ User registration & login
+
 ✅ Donate clothes with a few clicks
+
 ✅ Request clothes easily
+
 ✅ Persistent storage via MySQL
+
 ✅ Clean and user-friendly interface
+
 
 🙌 Support the Project
 If you find this project helpful, consider giving it a ⭐️ on GitHub!
